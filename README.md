@@ -22,3 +22,8 @@ git add .
 git commit -m"Describe code changes"
 git push
 ```
+
+### SSH
+- New SSH key generation: `ssh-keygen -t rsa`
+- Private & Public SSH keys.
+- Resource: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
