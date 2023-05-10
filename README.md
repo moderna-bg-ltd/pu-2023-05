@@ -27,3 +27,11 @@ git push
 - New SSH key generation: `ssh-keygen -t rsa`
 - Private & Public SSH keys.
 - Resource: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+
+### Local Dev server
+
+- Windows - Wamp64 (64bit): https://www.wampserver.com/en/download-wampserver-64bits/
+- MacOS - Mamp64.
+- Linux - integrated.
+- Docker - Win/Mac/Linux - Linux Containers on Windows OS: [https://www.docker.com/](https://docs.docker.com/desktop/install/windows-install/)
+
