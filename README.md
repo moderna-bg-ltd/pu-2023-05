@@ -50,3 +50,4 @@ git push
 - Create `index.php`.
 - Add a CSS framework W3CSS in folder `css/`.
 - Learn basic HTML, CSS, Javascript, PHP and why not Python: https://www.w3schools.com/
+- If your computer/laptop has installed PHP, we can use local php/web server with the command: `php -S localhost:8000`.
