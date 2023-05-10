@@ -27,6 +27,9 @@ git push
 - New SSH key generation: `ssh-keygen -t rsa`
 - Private & Public SSH keys.
 - Resource: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+- Generate SSH key: ssh-keygen -t rsa -b 4096 -C "your_email@example.com".
+- Start SSH agent: eval "$(ssh-agent -s)"
+- Add your personal SSH key: ssh-add ~/.ssh/id_your_private_ssh_key
 
 ### Local Dev server
 
