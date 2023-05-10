@@ -38,3 +38,11 @@ git push
 - Linux - integrated.
 - Docker - Win/Mac/Linux - Linux Containers on Windows OS: [https://www.docker.com/](https://docs.docker.com/desktop/install/windows-install/)
 
+### PHP Development IDE
+
+- PhpStorm (trial, paid): https://www.jetbrains.com/phpstorm/
+- MS Visual Studio Code (VS Code).
+- Notepad++, other text editors.
+- Comodo, Netbeans, Eclipse, etc.
+
+
