@@ -45,4 +45,8 @@ git push
 - Notepad++, other text editors.
 - Comodo, Netbeans, Eclipse, etc.
 
+### Basic PHP programming
 
+- Create `index.php`.
+- Add a CSS framework W3CSS in folder `css/`.
+- Learn basic HTML, CSS, Javascript, PHP and why not Python: https://www.w3schools.com/
