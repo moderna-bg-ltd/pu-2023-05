@@ -57,7 +57,7 @@ git push
 - Check your current php version: `php -v`
 - Check your php settings within an index.php file and single PHP function: `<?php phpinfo();`
 
-### Practical example
+### Practical example - basic Git commands
 
 - Status of the current local git branch: `git status`
 - Create new git branch: `git checkout -b feature-podvrati`
@@ -66,6 +66,7 @@ git push
 - Switch to a different branch: `git checkout master`
 - Merge master into dev: `git checkout dev` and `git merge master`
 
+### Extended Git commands
 
 - When we have already added in local git file/s (in green), we can restore it with: `git reset -- <file_name>`
 - Remove/cancel file changes: `git checkout -- .htaccess`
