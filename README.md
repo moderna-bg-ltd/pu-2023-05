@@ -88,3 +88,4 @@ git push
 - Docksal docker containers start: `fin start`
 - Stop the docksal/docker containers: `fin system stop`
 - To run command/s into the main container use: `fin composer install`
+- Import database dump: `fin db import <path_to_db>/<db_backup_file.sql>`
