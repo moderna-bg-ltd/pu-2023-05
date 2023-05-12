@@ -67,4 +67,20 @@ git push
 
 ### Composer
 
+- Install composer (it requires installed PHP): https://getcomposer.org/
+- PHP libraries package manager.
+- Regular usage: `composer require <path>/<library_name>`.
+- Example: `composer require drupal/stage_file_proxy`.
+- Run the require composer (PHP) libraries and patches: `composer install`
+- Update the already in use library/patch: `composer update <path>/<library_name>`
+- To update composer.lock run: `composer update lock`
+
 ### Docker & Docksal
+
+- Install Docker Desktop: https://www.docker.com/products/docker-desktop/
+- Install Docksal (it uses Docker for the orchestration): https://docksal.io/
+- Docksal command always starts with `fin `.
+- Docksal setup (first docksal setup, in the project root folder): `fin init`
+- Docksal docker containers start: `fin start`
+- Stop the docksal/docker containers: `fin system stop`
+- To run command/s into the main container use: `fin composer install`
