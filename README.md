@@ -13,7 +13,7 @@
 - Most used console commands:
 
 ```
-git clone git@github.com:moderna-bg-ltd/pu-2023-01.git
+git clone git@github.com:moderna-bg-ltd/pu-2023-05.git
 git pull
 <apply code changes>
 git add .
