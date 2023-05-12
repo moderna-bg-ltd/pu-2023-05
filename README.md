@@ -65,9 +65,12 @@ git push
 - Exit from remote server: `exit`
 - Switch to a different branch: `git checkout master`
 - Merge master into dev: `git checkout dev` and `git merge master`
+
+
+- When we have already added in local git file/s (in green), we can restore it with: `git reset -- <file_name>`
 - Remove/cancel file changes: `git checkout -- .htaccess`
 - Remove all untracked files and folders: `git clean -fd .`
-- See all differences: `git diff` or `git diff <filename>`
+- See all differences: `git diff` (or `git diff <filename>`).
 
 ### Composer
 
