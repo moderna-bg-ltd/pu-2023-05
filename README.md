@@ -52,6 +52,10 @@ git push
 - Add a CSS framework W3CSS in folder `css/`.
 - Learn basic HTML, CSS, Javascript, PHP and why not Python: https://www.w3schools.com/
 - If your computer/laptop has installed PHP, we can use local php/web server with the command: `php -S localhost:8000`.
+- Official documentation: https://www.php.net/
+- Current version and realeses: https://www.php.net/releases/index.php
+- Check your current php version: `php -v`
+- Check your php settings within an index.php file and single PHP function: `<?php phpinfo();`
 
 ### Practical example
 
