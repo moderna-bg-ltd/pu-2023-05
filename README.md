@@ -24,6 +24,7 @@ git push
 ```
 
 ### SSH
+
 - New SSH key generation: `ssh-keygen -t rsa`
 - Private & Public SSH keys.
 - Resource: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
@@ -51,3 +52,19 @@ git push
 - Add a CSS framework W3CSS in folder `css/`.
 - Learn basic HTML, CSS, Javascript, PHP and why not Python: https://www.w3schools.com/
 - If your computer/laptop has installed PHP, we can use local php/web server with the command: `php -S localhost:8000`.
+
+### Practical example
+
+- Status of the current local git branch: `git status`
+- Create new git branch: `git checkout -b feature-podvrati`
+- SSH connect to a server: `user@ip_address_xxx_xxx_xxx_xxx -p <port_number>`
+- Exit from remote server: `exit`
+- Switch to a different branch: `git checkout master`
+- Merge master into dev: `git checkout dev` and `git merge master`
+- Remove/cancel file changes: `git checkout -- .htaccess`
+- Remove all untracked files and folders: `git clean -fd .`
+- See all differences: `git diff` or `git diff <filename>`
+
+### Composer
+
+### Docker & Docksal
