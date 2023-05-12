@@ -36,7 +36,7 @@ git push
 
 - Windows - Wamp64 (64bit): https://www.wampserver.com/en/download-wampserver-64bits/
 - MacOS - Mamp64.
-- Linux - integrated.
+- Linux - integrated by default.
 - Docker - Win/Mac/Linux - Linux Containers on Windows OS: [https://www.docker.com/](https://docs.docker.com/desktop/install/windows-install/)
 
 ### PHP Development IDE
