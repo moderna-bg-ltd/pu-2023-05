@@ -10,7 +10,7 @@
 
 ### Git
 
-- Install Git locally - https://git-scm.com/ (+ GitBash console)
+- Install Git locally - https://git-scm.com/ (for Windows use GitBash console)
 - Git servers - Github.com, Gitlab.com, Bitbucket.com (custom Redmine, etc.)
 - Most used console commands:
 
