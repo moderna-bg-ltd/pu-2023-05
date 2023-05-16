@@ -98,7 +98,10 @@ git push
 
 ### Practical Experience - Login system
 - Login & Register system in PHP & MySQL database with tutorials.
-#### Resources / Learning materials:
+- Resources / Learning materials:
 - Secure Login System with PHP and MySQL (example): https://codeshack.io/secure-login-system-php-mysql/
 - Secure Registration System with PHP and MySQL (example): https://codeshack.io/secure-registration-system-php-mysql/
+
+### Work in progress on real PHP project
+- Add register / login / logout functionality on a real project.
 
