@@ -105,3 +105,14 @@ git push
 ### Work in progress on real PHP project
 - Add register / login / logout functionality on a real project.
 
+### Professional public visibility
+- Please register and add MODERNA BG LTD
+- Register on Github.com
+- Gitlab.com
+- PHP.net (documentation only)
+- Symfony.com
+- Drupal.org (you can also add MODERNA BG LTD as an employer).
+- Linkedin (professional network).
+- Behance.net (portfolio).
+- Other social networks (Facebook, Instagram, Twitter, Youtube, TikTok, etc.)
+- Personal website.
