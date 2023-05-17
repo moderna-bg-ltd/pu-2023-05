@@ -116,3 +116,5 @@ git push
 - Behance.net (portfolio).
 - Other social networks (Facebook, Instagram, Twitter, Youtube, TikTok, etc.)
 - Personal website.
+- CV (Curriculum Vitae).
+- IT Jobs in Bulgaria - Dev.bg, Jobs.bg, Zaplata.bg, Jobtiger, etc.
