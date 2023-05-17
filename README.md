@@ -118,3 +118,29 @@ git push
 - Personal website.
 - CV (Curriculum Vitae).
 - IT Jobs in Bulgaria - Dev.bg, Jobs.bg, Zaplata.bg, Jobtiger, etc.
+
+### PHP CMS (Content Management Systems)
+- Wordpress
+- Joomla
+- Drupal
+
+### PHP Frameworks
+- Codeigniter
+- Laravel.com (Online video courses: laracasts.com)
+- Symfony.com (Online courses: symfonycast.com)
+
+### Javascript Frameworks
+- Javascript
+- NodeJS
+- AngularJS
+- ReactJS
+- VueJS
+
+### CSS Frameworks
+- W3CSS
+- Boostrap
+- Foundation
+- Responsive web design
+
+### Learning / Training
+- HTML, CSS, Javascript, PHP, Python - https://www.w3schools.com/
