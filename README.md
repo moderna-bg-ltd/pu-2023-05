@@ -160,7 +160,7 @@ git push
 - `$_SESSION`, `$_COOKIE`, `$_SERVER`, `$_POST`, `$_GET`, `$_FILES`
 
 ### Upload file
-- `<form method="post" enctype="multipart/form-data" action="upload.php">
+- `<form method="post" enctype="multipart/form-data" action="upload.php">`
 - `...`
 - `<input id="cover" name="cover" type="file">`
 - `...`
