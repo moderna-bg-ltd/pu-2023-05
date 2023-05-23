@@ -157,7 +157,7 @@ git push
 - https://www.poznanie.org/
 
 ### Global variables
-- `$_SESSION`, `$_SERVER`, `$_POST`, `$_GET`, `$_FILES`
+- `$_SESSION`, `$_COOKIE`, `$_SERVER`, `$_POST`, `$_GET`, `$_FILES`
 
 ### Upload file
 - `<form method="post" enctype="multipart/form-data" action="upload.php">...<input id="cover" name="cover" type="file">...</form>`
