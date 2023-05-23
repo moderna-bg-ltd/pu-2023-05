@@ -155,3 +155,11 @@ git push
 ### Real projects work
 - https://dd-vrati-plovdiv.com/
 - https://www.poznanie.org/
+
+### Global variables
+- `$_SESSION`, `$_SERVER`, `$_POST`, `$_GET`, `$_FILES`
+
+### Upload file
+- `<form method="post" enctype="multipart/form-data" action="upload.php">...<input id="cover" name="cover" type="file">...</form>`
+- `$target_file = "/var/www/images/books/1234.jpg";`
+- `move_uploaded_file($_FILES["cover"]["tmp_name"], $target_file);`
