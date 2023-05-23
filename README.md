@@ -144,9 +144,14 @@ git push
 
 ### Learning / Training
 - HTML, CSS, Javascript, PHP, Python - https://www.w3schools.com/
+- Python on learn.microsoft.com - https://learn.microsoft.com/en-us/training/browse/?terms=python
 
 ### Check if a webpage is HTML & CSS valid
 - HTML validator - https://validator.w3.org
 - CSS validator - https://jigsaw.w3.org/css-validator/
 - Loading speed - https://pagespeed.web.dev/
 - Check for structured data (by Google) - https://search.google.com/test/rich-results
+
+### Real projects work
+- https://dd-vrati-plovdiv.com/
+- https://www.poznanie.org/
